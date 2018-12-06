@@ -1,6 +1,6 @@
 ; Main.asm
-; Name:
-; UTEid: 
+; Name: Derek Lilya & Jordan Kash
+; UTEid: djl2772
 ; Continuously reads from x4600 making sure its not reading duplicate
 ; symbols. Processes the symbol based on the program description
 ; of mRNA processing.
